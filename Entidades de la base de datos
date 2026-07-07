@@ -1,0 +1,40 @@
+Cliente
+- nombre
+- teléfono
+- email
+- dirección
+
+Mascota
+- nombre
+- raza
+- edad
+- peso
+- observaciones
+- cliente
+
+Servicio
+- nombre
+- descripción
+- precio
+- duración
+
+Cita
+- cliente
+- mascota
+- servicio
+- empleado
+- fecha
+- hora
+- estado
+
+Empleado
+- usuario
+- nombre
+- teléfono
+- rol
+
+HistorialServicio
+- cita
+- observaciones
+- precio_final
+- fecha_realizacion
