@@ -1,0 +1,25 @@
+POST /api/auth/login/
+POST /api/auth/refresh/
+
+GET /api/clientes/
+POST /api/clientes/
+GET /api/clientes/{id}/
+PUT /api/clientes/{id}/
+DELETE /api/clientes/{id}/
+
+GET /api/mascotas/
+POST /api/mascotas/
+GET /api/mascotas/{id}/
+PUT /api/mascotas/{id}/
+DELETE /api/mascotas/{id}/
+
+GET /api/servicios/
+POST /api/servicios/
+
+GET /api/citas/
+POST /api/citas/
+PUT /api/citas/{id}/
+DELETE /api/citas/{id}/
+
+GET /api/historial/
+POST /api/historial/
